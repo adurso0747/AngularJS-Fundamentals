@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbfb9efc-f232-4408-b1ff-dae429300adf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/data/event/1.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/data/event/1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/data/user/johndoe99.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/data/user/johndoe99.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ggweuObGTgAVhUyrTYcXy0SjmF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../AngularJS Directives Fundamentals/App 14" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Other File Types" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alex.durso\Documents\AngularFundamentalsFiles-master\DemoApp\app\css" />
+      <recent name="C:\Users\alex.durso\Documents\AngularFundamentalsFiles-master\DemoApp\app\js\directives" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alex.durso\Documents\AngularFundamentalsFiles-master\DemoApp\app\Templates" />
+      <recent name="C:\Users\alex.durso\Documents\AngularFundamentalsFiles-master\DemoApp\app\js\directives" />
+      <recent name="C:\Users\alex.durso\Documents\AngularFundamentalsFiles-master\DemoApp\app\js\services" />
+      <recent name="C:\Users\alex.durso\Documents\AngularFundamentalsFiles-master\DemoApp\app\js\controllers" />
+      <recent name="C:\Users\alex.durso\Documents\AngularFundamentalsFiles-master\DemoApp\app" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbfb9efc-f232-4408-b1ff-dae429300adf" name="Default Changelist" comment="" />
+      <created>1598549641778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598549641778</updated>
+      <workItem from="1598549642828" duration="763000" />
+      <workItem from="1598550538611" duration="26452000" />
+      <workItem from="1598619137678" duration="21109000" />
+      <workItem from="1598877986568" duration="1191000" />
+      <workItem from="1598879352871" duration="1294000" />
+      <workItem from="1598880842186" duration="4771000" />
+      <workItem from="1598893261056" duration="2432000" />
+      <workItem from="1598896057878" duration="325000" />
+      <workItem from="1598896535491" duration="19000" />
+      <workItem from="1598897172297" duration="1246000" />
+      <workItem from="1598899449868" duration="1457000" />
+      <workItem from="1598900959776" duration="12181000" />
+      <workItem from="1598964509593" duration="55551000" />
+      <workItem from="1599137119796" duration="29845000" />
+      <workItem from="1599223381984" duration="17991000" />
+      <workItem from="1599683117031" duration="4161000" />
+      <workItem from="1599851182663" duration="262000" />
+      <workItem from="1599859428080" duration="216000" />
+      <workItem from="1599859725108" duration="192000" />
+      <workItem from="1599860076717" duration="189000" />
+    </task>
+    <task id="LOCAL-00001" summary="Fixed filters, added fontawesome, fixed one event json file">
+      <created>1599687142663</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599687142663</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixed filters, added fontawesome, fixed one event json file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed filters, added fontawesome, fixed one event json file" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="717" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599010607922">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="717" y="321" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599010607922" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599094118936">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599094118936" />
+    <state x="572" y="88" width="1223" height="864" key="CommitChangelistDialog2" timestamp="1599687140959">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="572" y="88" width="1223" height="864" key="CommitChangelistDialog2/-1920.0.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599687140959" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1599860263709">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/-1920.0.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599860263709" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1598550527773">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/-1920.0.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1598550527773" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1598550527772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/-1920.0.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1598550527772" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1598550527772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/-1920.0.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1598550527772" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1598550527772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/-1920.0.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1598550527772" />
+    <state x="932" y="222" key="RollbackChangesDialog" timestamp="1599686594532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="932" y="222" key="RollbackChangesDialog/-1920.0.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599686594532" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1599684235254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/-1920.0.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599684235254" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1599687151545">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1920.0.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599687151545" />
+    <state x="768" y="380" width="383" height="279" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.SIMPLE" timestamp="1598576422507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="768" y="380" width="383" height="279" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.SIMPLE/-1920.0.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1598576422507" />
+    <state x="667" y="253" width="585" height="592" key="find.popup" timestamp="1599686375316">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="253" width="585" height="592" key="find.popup/-1920.0.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599686375316" />
+    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599246309471" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1598622727118">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/-1920.0.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1598622727118" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1599224293720">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599224293720" />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+</project>

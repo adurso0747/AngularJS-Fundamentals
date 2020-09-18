@@ -1,0 +1,41 @@
+{
+	"name": "Awesomeness Lessons",
+	"date": "09/03/2020",
+	"time": "8:00pm",
+	"location": {
+		"address": "MacLaren's Pub",
+		"city": "New York",
+		"province": "Manhattan"
+	},
+	"imageUrl": "https://media.tenor.com/images/cbdf356cbbeccccaf83300f46f4f1577/tenor.gif",
+	"id": 5,
+	"sessions": [
+		{
+			"id": 1,
+			"name": "Bro Code",
+			"creatorName": "Barney Stinson",
+			"duration": 1,
+			"level": "Introductory",
+			"abstract": "In this session you will about the bro code.",
+			"upVoteCount": 2
+		},
+		{
+			"id": 2,
+			"name": "How to Live",
+			"creatorName": "Barney Stinson",
+			"duration": 3,
+			"level": "Advanced",
+			"abstract": "This session will teach you how to live.",
+			"upVoteCount": 2
+		},
+		{
+			"id": 3,
+			"name": "Have you met Ted?",
+			"creatorName": "Barney Stinson",
+			"duration": 2,
+			"level": "Intermediate",
+			"abstract": "In this session you will meet ted",
+			"upVoteCount": 2
+		}
+	]
+}

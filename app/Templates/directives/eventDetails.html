@@ -1,0 +1,26 @@
+<div>
+    <img ng-src="{{event.imageUrl}}" alt="{{event.name}}" />
+
+    <button class="btn" ng-click="reload()">Reload</button>
+    <button type="button" class="btn btn-primary" ng-click="scrollToSession()">Scroll</button>
+    <div class="row">
+        <div class="spann11">
+            <h2 ng-bind-template="{{event.name | uppercase}} {{event.date}}"></h2>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="span3">
+            <div><strong>Date:</strong> {{event.date | date:'medium'}}</div>
+            <div><strong>Time:</strong> {{event.time}}</div>
+            <div><strong>Price:</strong> {{34 | currency}}</div>
+        </div>
+        <div class="span4">
+            <address>
+                <strong>Address:</strong><br/>
+                {{event.location.address}}<br/>
+                {{event.location.city}}, {{event.location.province}}
+            </address>
+        </div>
+    </div>
+</div>

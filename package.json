@@ -1,0 +1,21 @@
+{
+  "name": "demoapp",
+  "version": "1.0.0",
+  "description": "This project is a sample application demonstrating a more fully developed realistic single page angular application.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Eames & Jim Cooper",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "angular-cookies": "^1.8.0",
+    "body-parser": "^1.13.1",
+    "express": "4.13.0",
+    "jquery": "^3.5.1"
+  }
+}

@@ -1,0 +1,16 @@
+<div>
+    <div class="row session">
+        <div ng-transclude></div>
+        <div class="well span9">
+            <collapsible title="{{session.name}}">
+                <h6 style="margin-top:-10px">{{session.creatorName}}</h6>
+                <span>Duration: </span>
+                <span ng-bind="session.duration | durations"></span>
+                </br>
+                <span>Level:</span>
+                <span ng-bind-html="session.level | levels"></span>
+                <p>{{session.abstract}}</p>
+            </collapsible>
+        </div>
+    </div>
+</div>

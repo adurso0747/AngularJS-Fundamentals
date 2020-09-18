@@ -1,0 +1,21 @@
+{
+	"userName": "janedoe99",
+	"password": "password123",
+	"name": "Jane",
+	"emailAddress": "janedoe@gmail.com",
+	"bio": "Hi, my name is Jane and I am a programmer.",
+	"sessions": [
+		{
+			"name": "Bro Code",
+			"voteType": "up"
+		},
+		{
+			"name": "Have you met Ted?",
+			"voteType": "up"
+		},
+		{
+			"name": "How to Live",
+			"voteType": "up"
+		}
+	]
+}

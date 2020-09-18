@@ -1,0 +1,20 @@
+<div class="container-fluid">
+    <form name="loginForm">
+        <div class="row-fluid">
+            <div class="span3">
+                <fieldset>
+                    <label for="userName">User Name:</label>
+                    <input focus id="userName" required ng-pattern="/^[-A-Za-z0-9]{2,20}$/" type="text" placeholder="Username" ng-model="login.userName" />
+                    <label for="password">Password:</label>
+                    <input id="password" required type="password" placeholder="Password" ng-model="login.password" />
+                </fieldset>
+            </div>
+        </div>
+        <div class="row-fluid">
+                <div class="pull-left">
+                    <button type="submit" ng-disabled="loginForm.$invalid"  ng-click="attemptLogin(login, loginForm)" class="btn btn-primary">Submit</button>
+                    <button type="button" ng-click="cancelLogin()" class="btn btn-default">Cancel</button>
+                </div>
+        </div>
+    </form>
+</div>
